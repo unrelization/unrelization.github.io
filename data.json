@@ -1,0 +1,12 @@
+[
+  {
+    "username": "unreliablecode",
+    "password": "$2a$10$0z/g.zRalcCIOvEZYaJjoecmrLJX3VRRxjydHWli74UYddHKdVqdi",
+    "owned": ["item1", "item2", "item3"]
+  },
+  {
+    "username": "diahnurhasna",
+    "password": "$2a$10$HEJDUtu3E/6SDLUlqAp7Mu2AQcgByiGxHik017jNBoIO5wCPYc6jm", 
+    "owned": ["new_item1", "new_item2"]
+  }
+]
